@@ -1,7 +1,14 @@
-# rr
+2024-07-30
+IIT
+
+#Event #IT
+
+[[Events/Readme|Readme]]
+
+---
+
 gihan liyanage / gama
 
-# AI Community Meetup 7.30
 [https://youtu.be/MuAZm6BKc6U](https://youtu.be/MuAZm6BKc6U)
 
 Small Language Models

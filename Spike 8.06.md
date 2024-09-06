@@ -1,3 +1,11 @@
+2024-08-06
+Barefoot Garden Cafe
+
+#Event #Business 
+
+[[Events/Readme|Readme]]
+
+---
 
 # Sales Talk - Yasas Hewage
 SPIN
@@ -13,7 +21,7 @@ Know the right dots
 
 Negotiables when there's a ground for a deal
 
-#Books
+#Books 
 - Influencer
 - Getting to say yes
 - Trump: The Art of the Deal

@@ -1,3 +1,11 @@
+2024-05-30
+Elegance
+
+#Event #Business 
+
+[[Events/Readme|Readme]]
+
+---
 # Main
 Issuing shares to employees - 10%
 Buy shares when exit

@@ -1,4 +1,12 @@
-21.7.24
+2024-07-21
+UoM
+
+#Event #IT
+
+[[Events/Readme|Readme]]
+
+---
+
 #### Web security
 
 ISO 27000 security standards
@@ -9,6 +17,7 @@ OWASP top 10
 
 https://www.hackthissite.org/
 Basic 1,2,3 tests
+#Research 
 
 How to create a good password
 How to secure passwords

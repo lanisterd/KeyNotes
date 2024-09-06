@@ -1,3 +1,11 @@
+2024-07-18
+Elegance
+
+#Event #Business 
+
+[[Events/Readme|Readme]]
+
+---
 ## Sandra De Soyza
 
 - Preperation - key points

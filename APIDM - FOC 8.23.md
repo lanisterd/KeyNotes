@@ -1,21 +1,33 @@
+2024-08-31
+Festival of Creativity
+Taprobane
+
+#Event #IT
+
+[[Events/Readme|Readme]]
+
+---
+
+
 FOC
 Advertising
-Madmen tv series
+Madmen #tvseries
 
 Video
 Runway ai tool
 
 Ui meets ai
 
-Musho ai plugin figma
+Musho ai plugin figma #tool
 Relume.io
 
 
-#02 Good Acting is Not Acting at All
+# 02
+Good Acting is Not Acting at All
 
 Is there something I can do for you
 
-#05
+# 05
 
 Culture Sri Lanka Lumic Creations
 
